@@ -41,11 +41,7 @@
 
 - 📊 [**Blinkit Store Dashboard (Power BI)**](https://github.com/ramya-2906/BLINKIT-STORE-ANALYSIS-DASHBOARD-POWERBI)  
   [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)]()  
-  Designed a sales analysis dashboard with DAX & Power Query, improving decision-making speed by 50%.   
-
-- 🔗 **URL Shortener**  
-  [![API](https://img.shields.io/badge/API-005571?style=flat&logo=fastapi&logoColor=white)]()  
-  Custom API with redirection and analytics.  
+  Designed a sales analysis dashboard with DAX & Power Query, improving decision-making speed by 50%.    
 
 ---
 
@@ -56,11 +52,6 @@
 [![NPTEL Python](https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-orange?style=for-the-badge&logo=python&logoColor=white)]()
 [![NPTEL DBMS](https://img.shields.io/badge/NPTEL-Database%20Management%20System-blue?style=for-the-badge&logo=databricks&logoColor=white)]()
 [![Amazon ML School](https://img.shields.io/badge/Amazon-ML%20School-232F3E?style=for-the-badge&logo=amazon&logoColor=FF9900)]()
-
-- 🎯 Selected to attend **Amazon ML School (2025)** – a competitive program focused on **Machine Learning fundamentals, applications, and problem-solving**.  
-- 🛠️ Achieved **ServiceNow CSA** with strong expertise in catalog workflows, SLAs & scripting.  
-- ⚙️ Achieved **ServiceNow CAD** by building scoped apps and extending ServiceNow functionality.  
-- 📊 Completed **NPTEL: Python for Data Science** & **Database Management System (DBMS)** with distinction.  
 
 ---
 
