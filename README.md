@@ -28,23 +28,6 @@
 [![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1D3557?style=for-the-badge&logo=tableau&logoColor=white)]()
 
 ---
-
-## 📂 Projects  
-
-- 🎟 [**Movie Ticket Booking System (Python)**](https://github.com/ramya-2906/MOVIE-TICKET-BOOKING-SYSTEM-USING-PYTHON)  
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()  
-  Built a reservation system with input validation and 95% accuracy in simulated bookings.  
-
-- 🔑 [**Password Generator (Python)**](https://github.com/ramya-2906/Mini-Projects-Using-Python-Programming/blob/main/password%20generator.py)  
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()  
-  CLI tool generating secure, random passwords with modular design and validation features.  
-
-- 📊 [**Blinkit Store Dashboard (Power BI)**](https://github.com/ramya-2906/BLINKIT-STORE-ANALYSIS-DASHBOARD-POWERBI)  
-  [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)]()  
-  Designed a sales analysis dashboard with DAX & Power Query, improving decision-making speed by 50%.    
-
----
-
 ## 🏆 Achievements & Certifications  
 
 [![ServiceNow CSA](https://img.shields.io/badge/ServiceNow-CSA-13A564?style=for-the-badge&logo=servicenow&logoColor=white)]()
